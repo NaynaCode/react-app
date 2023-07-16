@@ -1,0 +1,42 @@
+.schedule-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .schedule-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .time {
+    font-weight: bold;
+    width: 60px; /* Adjust width as needed */
+  }
+  
+  .input-box {
+    position: relative;
+  }
+  
+  input {
+    display: block;
+    border: 3px solid #d7d6d6;
+    background: #fff;
+    padding: 10px 10px 10px 50px;
+    width: 300px;
+    border-radius: 10px;
+  }
+  
+  .unit {
+    font-weight: bold;
+    position: absolute;
+    display: block;
+    left: 5px;
+    top: 5px;
+    z-index: 9;
+  }
+  
+  
+  
+  
+  

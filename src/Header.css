@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(85, 81, 71); /* Set the background color to black */
+  }
+  
+  .logo {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .day-date {
+    color: white; /* Set the font color to white */
+    font-weight: bold; /* Set the font weight to bold */
+  }
+  
